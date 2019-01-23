@@ -1,7 +1,7 @@
 Linux netmd
 ========
 
-several Linux NetMd utils are here from various authors and projects. (nobody seems to have all of the pieces.)
+several Linux NetMd utils are here from various authors and projects. ()nobody seems to have all of the pieces.)
 
 putWave.py is a program for transferring songs to your NetMD device in SP mode via USB wire protocol (ATRAC3 codecs are not openly available-but used on PS3 also).
 
